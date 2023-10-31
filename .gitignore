@@ -13,4 +13,4 @@ datasets/ACDC
 
 README.txt
 
-.gitignore
+*.gitignore
