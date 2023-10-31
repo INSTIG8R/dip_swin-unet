@@ -10,3 +10,5 @@ datasets/ACDC
 **/log
 **/predictions
 **/__pycache__
+
+README.txt
