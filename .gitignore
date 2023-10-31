@@ -12,3 +12,5 @@ datasets/ACDC
 **/__pycache__
 
 README.txt
+
+.gitignore
