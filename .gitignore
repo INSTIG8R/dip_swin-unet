@@ -1,0 +1,12 @@
+data
+datasets/Synapse
+datasets/ACDC
+*.md
+*.nz
+*.sakir-w4-linux
+*.gz
+*.pth
+*.npz
+**/log
+**/predictions
+**/__pycache__
